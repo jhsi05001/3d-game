@@ -638,8 +638,10 @@ MonoBehaviour:
   player: {fileID: 2064343660}
   runDistance: 12
   fleeRange: 10
+  sheepRunSpeed: 6
   idleDistance: 4
-  idleTime: 5
+  idleTime: 2
+  sheepIdleSpeed: 3
 --- !u!195 &1265725298
 NavMeshAgent:
   m_ObjectHideFlags: 0
